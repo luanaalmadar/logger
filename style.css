@@ -18,3 +18,25 @@ body {
     flex-direction: column;
     gap: 1.5rem;
 }
+h1{
+    font-size: 3rem;
+    letter-spacing:.313rem;
+    font-weight: 800;
+}
+
+
+button {
+    width: 10rem;
+    height: 3rem;
+    border: none;
+    background-color: #C92071;
+    border-radius: .5rem;
+    font-size: 1.25rem;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #991956;
+}
